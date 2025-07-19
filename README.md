@@ -8,9 +8,9 @@ This project showcases how data analysis can help food-tech platforms like Zomat
 
 **Tool**	              **Purpose**
 Excel	              Data Cleaning, Preprocessing, Pivot Tables, and Basic Dashboards
-SQL	                Data Querying, Filtering, Aggregation, Joins, and Data Preparation
+SQL	                  Data Querying, Filtering, Aggregation, Joins, and Data Preparation
 Power BI	          Building dynamic dashboards, DAX calculations, KPI Visuals
-Tableau	            Interactive visual storytelling using charts, maps, filters, and actions
+Tableau	              Interactive visual storytelling using charts, maps, filters, and actions
 
 **🔍 Project Goals**
 
